@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "run-p next-dev watch-content",
     "next-dev": "next dev",
-    "build": "next build && next export",
+    "build": "next build",
     "deploy": "gh-pages -d out",
     "start": "next start",
     "lint": "next lint",
@@ -37,5 +37,5 @@
     "postcss": "^8.4.31",
     "tailwindcss": "^3.3.5"
   },
-  "homepage": "https://Ericufo.github.io/<Ericufo.github.io>"
+  "homepage": "https://Ericufo.github.io/Ericufo.github.io"
 }
