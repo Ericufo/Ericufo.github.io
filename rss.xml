@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>overreacted — A blog by Dan Abramov</title>
+        <link>https://overreacted.io/</link>
+        <description>A personal blog by Dan Abramov</description>
+        <lastBuildDate>Sun, 20 Oct 2024 13:50:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Feed for Node.js</generator>
+        <image>
+            <title>overreacted — A blog by Dan Abramov</title>
+            <url>https://github.com/gaearon.png</url>
+            <link>https://overreacted.io/</link>
+        </image>
+        <atom:link href="https://overreacted.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Two Reacts]]></title>
+            <link>https://overreacted.io/the-two-reacts/</link>
+            <guid>https://overreacted.io/the-two-reacts/</guid>
+            <pubDate>Thu, 04 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[UI = f(data)(state)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[A Chain Reaction]]></title>
+            <link>https://overreacted.io/a-chain-reaction/</link>
+            <guid>https://overreacted.io/a-chain-reaction/</guid>
+            <pubDate>Mon, 11 Dec 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[The limits of my language mean the limits of my world.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[npm audit: Broken by Design]]></title>
+            <link>https://overreacted.io/npm-audit-broken-by-design/</link>
+            <guid>https://overreacted.io/npm-audit-broken-by-design/</guid>
+            <pubDate>Wed, 07 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Found 99 vulnerabilities (84 moderately irrelevant, 15 highly irrelevant)]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Before You memo()]]></title>
+            <link>https://overreacted.io/before-you-memo/</link>
+            <guid>https://overreacted.io/before-you-memo/</guid>
+            <pubDate>Tue, 23 Feb 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Rendering optimizations that come naturally.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[The WET Codebase]]></title>
+            <link>https://overreacted.io/the-wet-codebase/</link>
+            <guid>https://overreacted.io/the-wet-codebase/</guid>
+            <pubDate>Mon, 13 Jul 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Come waste your time with me.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Goodbye, Clean Code]]></title>
+            <link>https://overreacted.io/goodbye-clean-code/</link>
+            <guid>https://overreacted.io/goodbye-clean-code/</guid>
+            <pubDate>Sat, 11 Jan 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[Let clean code guide you. Then let it go.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[My Decade in Review]]></title>
+            <link>https://overreacted.io/my-decade-in-review/</link>
+            <guid>https://overreacted.io/my-decade-in-review/</guid>
+            <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[A personal reflection.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[What Are the React Team Principles?]]></title>
+            <link>https://overreacted.io/what-are-the-react-team-principles/</link>
+            <guid>https://overreacted.io/what-are-the-react-team-principles/</guid>
+            <pubDate>Wed, 25 Dec 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[UI Before API.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[On let vs const]]></title>
+            <link>https://overreacted.io/on-let-vs-const/</link>
+            <guid>https://overreacted.io/on-let-vs-const/</guid>
+            <pubDate>Sun, 22 Dec 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[So which one should I use?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[What Is JavaScript Made Of?]]></title>
+            <link>https://overreacted.io/what-is-javascript-made-of/</link>
+            <guid>https://overreacted.io/what-is-javascript-made-of/</guid>
+            <pubDate>Fri, 20 Dec 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Getting a closure on JavaScript.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[How Does the Development Mode Work?]]></title>
+            <link>https://overreacted.io/how-does-the-development-mode-work/</link>
+            <guid>https://overreacted.io/how-does-the-development-mode-work/</guid>
+            <pubDate>Sun, 04 Aug 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Dead code elimination by convention.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Algebraic Effects for the Rest of Us]]></title>
+            <link>https://overreacted.io/algebraic-effects-for-the-rest-of-us/</link>
+            <guid>https://overreacted.io/algebraic-effects-for-the-rest-of-us/</guid>
+            <pubDate>Sun, 21 Jul 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[They’re not burritos.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Preparing for a Tech Talk, Part 3: Content]]></title>
+            <link>https://overreacted.io/preparing-for-tech-talk-part-3-content/</link>
+            <guid>https://overreacted.io/preparing-for-tech-talk-part-3-content/</guid>
+            <pubDate>Wed, 10 Jul 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Turning an idea into a talk.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Name It, and They Will Come]]></title>
+            <link>https://overreacted.io/name-it-and-they-will-come/</link>
+            <guid>https://overreacted.io/name-it-and-they-will-come/</guid>
+            <pubDate>Mon, 25 Mar 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[A change starts with a story.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Writing Resilient Components]]></title>
+            <link>https://overreacted.io/writing-resilient-components/</link>
+            <guid>https://overreacted.io/writing-resilient-components/</guid>
+            <pubDate>Sat, 16 Mar 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Four principles to set you on the right path.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[A Complete Guide to useEffect]]></title>
+            <link>https://overreacted.io/a-complete-guide-to-useeffect/</link>
+            <guid>https://overreacted.io/a-complete-guide-to-useeffect/</guid>
+            <pubDate>Sat, 09 Mar 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Effects are a part of your data flow.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[How Are Function Components Different from Classes?]]></title>
+            <link>https://overreacted.io/how-are-function-components-different-from-classes/</link>
+            <guid>https://overreacted.io/how-are-function-components-different-from-classes/</guid>
+            <pubDate>Sun, 03 Mar 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[They’re a whole different Pokémon.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Coping with Feedback]]></title>
+            <link>https://overreacted.io/coping-with-feedback/</link>
+            <guid>https://overreacted.io/coping-with-feedback/</guid>
+            <pubDate>Sat, 02 Mar 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Sometimes I can’t fall asleep.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Fix Like No One’s Watching]]></title>
+            <link>https://overreacted.io/fix-like-no-ones-watching/</link>
+            <guid>https://overreacted.io/fix-like-no-ones-watching/</guid>
+            <pubDate>Fri, 15 Feb 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[The other kind of technical debt.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Making setInterval Declarative with React Hooks]]></title>
+            <link>https://overreacted.io/making-setinterval-declarative-with-react-hooks/</link>
+            <guid>https://overreacted.io/making-setinterval-declarative-with-react-hooks/</guid>
+            <pubDate>Mon, 04 Feb 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[How I learned to stop worrying and love refs.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[React as a UI Runtime]]></title>
+            <link>https://overreacted.io/react-as-a-ui-runtime/</link>
+            <guid>https://overreacted.io/react-as-a-ui-runtime/</guid>
+            <pubDate>Sat, 02 Feb 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[An in-depth description of the React programming model.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Why Isn’t X a Hook?]]></title>
+            <link>https://overreacted.io/why-isnt-x-a-hook/</link>
+            <guid>https://overreacted.io/why-isnt-x-a-hook/</guid>
+            <pubDate>Sat, 26 Jan 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[Just because we can, doesn’t mean we should.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[The “Bug-O” Notation]]></title>
+            <link>https://overreacted.io/the-bug-o-notation/</link>
+            <guid>https://overreacted.io/the-bug-o-notation/</guid>
+            <pubDate>Fri, 25 Jan 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[What is the 🐞(n) of your API?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Preparing for a Tech Talk, Part 2: What, Why, and How]]></title>
+            <link>https://overreacted.io/preparing-for-tech-talk-part-2-what-why-and-how/</link>
+            <guid>https://overreacted.io/preparing-for-tech-talk-part-2-what-why-and-how/</guid>
+            <pubDate>Mon, 07 Jan 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[We need to go deeper.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[The Elements of UI Engineering]]></title>
+            <link>https://overreacted.io/the-elements-of-ui-engineering/</link>
+            <guid>https://overreacted.io/the-elements-of-ui-engineering/</guid>
+            <pubDate>Sun, 30 Dec 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[What makes UI engineering difficult?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Things I Don’t Know as of 2018]]></title>
+            <link>https://overreacted.io/things-i-dont-know-as-of-2018/</link>
+            <guid>https://overreacted.io/things-i-dont-know-as-of-2018/</guid>
+            <pubDate>Fri, 28 Dec 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[We can admit our knowledge gaps without devaluing our expertise.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Preparing for a Tech Talk, Part 1: Motivation]]></title>
+            <link>https://overreacted.io/preparing-for-tech-talk-part-1-motivation/</link>
+            <guid>https://overreacted.io/preparing-for-tech-talk-part-1-motivation/</guid>
+            <pubDate>Wed, 26 Dec 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here’s my recipe for a good talk idea.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Why Do React Hooks Rely on Call Order?]]></title>
+            <link>https://overreacted.io/why-do-hooks-rely-on-call-order/</link>
+            <guid>https://overreacted.io/why-do-hooks-rely-on-call-order/</guid>
+            <pubDate>Thu, 13 Dec 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[Lessons learned from mixins, render props, HOCs, and classes.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Optimized for Change]]></title>
+            <link>https://overreacted.io/optimized-for-change/</link>
+            <guid>https://overreacted.io/optimized-for-change/</guid>
+            <pubDate>Wed, 12 Dec 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[What makes a great API?]]></description>
+        </item>
+        <item>
+            <title><![CDATA[How Does setState Know What to Do?]]></title>
+            <link>https://overreacted.io/how-does-setstate-know-what-to-do/</link>
+            <guid>https://overreacted.io/how-does-setstate-know-what-to-do/</guid>
+            <pubDate>Sun, 09 Dec 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[Dependency injection is nice if you don’t have to think about it.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[My Wishlist for Hot Reloading]]></title>
+            <link>https://overreacted.io/my-wishlist-for-hot-reloading/</link>
+            <guid>https://overreacted.io/my-wishlist-for-hot-reloading/</guid>
+            <pubDate>Sat, 08 Dec 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[I don't want a lot for Christmas. There is just one thing I need.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Why Do React Elements Have a $$typeof Property?]]></title>
+            <link>https://overreacted.io/why-do-react-elements-have-typeof-property/</link>
+            <guid>https://overreacted.io/why-do-react-elements-have-typeof-property/</guid>
+            <pubDate>Mon, 03 Dec 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[It has something to do with security.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[How Does React Tell a Class from a Function?]]></title>
+            <link>https://overreacted.io/how-does-react-tell-a-class-from-a-function/</link>
+            <guid>https://overreacted.io/how-does-react-tell-a-class-from-a-function/</guid>
+            <pubDate>Sun, 02 Dec 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[We talk about classes, new, instanceof, prototype chains, and API design.]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Why Do We Write super(props)?]]></title>
+            <link>https://overreacted.io/why-do-we-write-super-props/</link>
+            <guid>https://overreacted.io/why-do-we-write-super-props/</guid>
+            <pubDate>Fri, 30 Nov 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[There’s a twist at the end.]]></description>
+        </item>
+    </channel>
+</rss>

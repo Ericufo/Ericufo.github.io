@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://overreacted.io/</id>
+    <title>overreacted — A blog by Dan Abramov</title>
+    <updated>2024-10-20T13:50:00.927Z</updated>
+    <generator>Feed for Node.js</generator>
+    <author>
+        <name>Dan Abramov</name>
+        <email>dan.abramov@gmail.com</email>
+        <uri>https://overreacted.io/</uri>
+    </author>
+    <link rel="alternate" href="https://overreacted.io/"/>
+    <link rel="self" href="https://overreacted.io/atom.xml"/>
+    <subtitle>A personal blog by Dan Abramov</subtitle>
+    <logo>https://github.com/gaearon.png</logo>
+    <icon>https://overreacted.io//icon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[The Two Reacts]]></title>
+        <id>https://overreacted.io/the-two-reacts/</id>
+        <link href="https://overreacted.io/the-two-reacts/"/>
+        <updated>2024-01-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[UI = f(data)(state)]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Chain Reaction]]></title>
+        <id>https://overreacted.io/a-chain-reaction/</id>
+        <link href="https://overreacted.io/a-chain-reaction/"/>
+        <updated>2023-12-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The limits of my language mean the limits of my world.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[npm audit: Broken by Design]]></title>
+        <id>https://overreacted.io/npm-audit-broken-by-design/</id>
+        <link href="https://overreacted.io/npm-audit-broken-by-design/"/>
+        <updated>2021-07-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Found 99 vulnerabilities (84 moderately irrelevant, 15 highly irrelevant)]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Before You memo()]]></title>
+        <id>https://overreacted.io/before-you-memo/</id>
+        <link href="https://overreacted.io/before-you-memo/"/>
+        <updated>2021-02-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Rendering optimizations that come naturally.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The WET Codebase]]></title>
+        <id>https://overreacted.io/the-wet-codebase/</id>
+        <link href="https://overreacted.io/the-wet-codebase/"/>
+        <updated>2020-07-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Come waste your time with me.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goodbye, Clean Code]]></title>
+        <id>https://overreacted.io/goodbye-clean-code/</id>
+        <link href="https://overreacted.io/goodbye-clean-code/"/>
+        <updated>2020-01-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Let clean code guide you. Then let it go.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Decade in Review]]></title>
+        <id>https://overreacted.io/my-decade-in-review/</id>
+        <link href="https://overreacted.io/my-decade-in-review/"/>
+        <updated>2020-01-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A personal reflection.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Are the React Team Principles?]]></title>
+        <id>https://overreacted.io/what-are-the-react-team-principles/</id>
+        <link href="https://overreacted.io/what-are-the-react-team-principles/"/>
+        <updated>2019-12-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[UI Before API.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On let vs const]]></title>
+        <id>https://overreacted.io/on-let-vs-const/</id>
+        <link href="https://overreacted.io/on-let-vs-const/"/>
+        <updated>2019-12-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[So which one should I use?]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Is JavaScript Made Of?]]></title>
+        <id>https://overreacted.io/what-is-javascript-made-of/</id>
+        <link href="https://overreacted.io/what-is-javascript-made-of/"/>
+        <updated>2019-12-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Getting a closure on JavaScript.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does the Development Mode Work?]]></title>
+        <id>https://overreacted.io/how-does-the-development-mode-work/</id>
+        <link href="https://overreacted.io/how-does-the-development-mode-work/"/>
+        <updated>2019-08-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dead code elimination by convention.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Algebraic Effects for the Rest of Us]]></title>
+        <id>https://overreacted.io/algebraic-effects-for-the-rest-of-us/</id>
+        <link href="https://overreacted.io/algebraic-effects-for-the-rest-of-us/"/>
+        <updated>2019-07-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[They’re not burritos.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preparing for a Tech Talk, Part 3: Content]]></title>
+        <id>https://overreacted.io/preparing-for-tech-talk-part-3-content/</id>
+        <link href="https://overreacted.io/preparing-for-tech-talk-part-3-content/"/>
+        <updated>2019-07-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Turning an idea into a talk.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Name It, and They Will Come]]></title>
+        <id>https://overreacted.io/name-it-and-they-will-come/</id>
+        <link href="https://overreacted.io/name-it-and-they-will-come/"/>
+        <updated>2019-03-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A change starts with a story.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writing Resilient Components]]></title>
+        <id>https://overreacted.io/writing-resilient-components/</id>
+        <link href="https://overreacted.io/writing-resilient-components/"/>
+        <updated>2019-03-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Four principles to set you on the right path.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Complete Guide to useEffect]]></title>
+        <id>https://overreacted.io/a-complete-guide-to-useeffect/</id>
+        <link href="https://overreacted.io/a-complete-guide-to-useeffect/"/>
+        <updated>2019-03-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Effects are a part of your data flow.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Are Function Components Different from Classes?]]></title>
+        <id>https://overreacted.io/how-are-function-components-different-from-classes/</id>
+        <link href="https://overreacted.io/how-are-function-components-different-from-classes/"/>
+        <updated>2019-03-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[They’re a whole different Pokémon.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coping with Feedback]]></title>
+        <id>https://overreacted.io/coping-with-feedback/</id>
+        <link href="https://overreacted.io/coping-with-feedback/"/>
+        <updated>2019-03-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sometimes I can’t fall asleep.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fix Like No One’s Watching]]></title>
+        <id>https://overreacted.io/fix-like-no-ones-watching/</id>
+        <link href="https://overreacted.io/fix-like-no-ones-watching/"/>
+        <updated>2019-02-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The other kind of technical debt.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Making setInterval Declarative with React Hooks]]></title>
+        <id>https://overreacted.io/making-setinterval-declarative-with-react-hooks/</id>
+        <link href="https://overreacted.io/making-setinterval-declarative-with-react-hooks/"/>
+        <updated>2019-02-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How I learned to stop worrying and love refs.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React as a UI Runtime]]></title>
+        <id>https://overreacted.io/react-as-a-ui-runtime/</id>
+        <link href="https://overreacted.io/react-as-a-ui-runtime/"/>
+        <updated>2019-02-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[An in-depth description of the React programming model.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Isn’t X a Hook?]]></title>
+        <id>https://overreacted.io/why-isnt-x-a-hook/</id>
+        <link href="https://overreacted.io/why-isnt-x-a-hook/"/>
+        <updated>2019-01-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Just because we can, doesn’t mean we should.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The “Bug-O” Notation]]></title>
+        <id>https://overreacted.io/the-bug-o-notation/</id>
+        <link href="https://overreacted.io/the-bug-o-notation/"/>
+        <updated>2019-01-25T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What is the 🐞(n) of your API?]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preparing for a Tech Talk, Part 2: What, Why, and How]]></title>
+        <id>https://overreacted.io/preparing-for-tech-talk-part-2-what-why-and-how/</id>
+        <link href="https://overreacted.io/preparing-for-tech-talk-part-2-what-why-and-how/"/>
+        <updated>2019-01-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We need to go deeper.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Elements of UI Engineering]]></title>
+        <id>https://overreacted.io/the-elements-of-ui-engineering/</id>
+        <link href="https://overreacted.io/the-elements-of-ui-engineering/"/>
+        <updated>2018-12-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What makes UI engineering difficult?]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Things I Don’t Know as of 2018]]></title>
+        <id>https://overreacted.io/things-i-dont-know-as-of-2018/</id>
+        <link href="https://overreacted.io/things-i-dont-know-as-of-2018/"/>
+        <updated>2018-12-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We can admit our knowledge gaps without devaluing our expertise.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Preparing for a Tech Talk, Part 1: Motivation]]></title>
+        <id>https://overreacted.io/preparing-for-tech-talk-part-1-motivation/</id>
+        <link href="https://overreacted.io/preparing-for-tech-talk-part-1-motivation/"/>
+        <updated>2018-12-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here’s my recipe for a good talk idea.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Do React Hooks Rely on Call Order?]]></title>
+        <id>https://overreacted.io/why-do-hooks-rely-on-call-order/</id>
+        <link href="https://overreacted.io/why-do-hooks-rely-on-call-order/"/>
+        <updated>2018-12-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lessons learned from mixins, render props, HOCs, and classes.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimized for Change]]></title>
+        <id>https://overreacted.io/optimized-for-change/</id>
+        <link href="https://overreacted.io/optimized-for-change/"/>
+        <updated>2018-12-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[What makes a great API?]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does setState Know What to Do?]]></title>
+        <id>https://overreacted.io/how-does-setstate-know-what-to-do/</id>
+        <link href="https://overreacted.io/how-does-setstate-know-what-to-do/"/>
+        <updated>2018-12-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Dependency injection is nice if you don’t have to think about it.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My Wishlist for Hot Reloading]]></title>
+        <id>https://overreacted.io/my-wishlist-for-hot-reloading/</id>
+        <link href="https://overreacted.io/my-wishlist-for-hot-reloading/"/>
+        <updated>2018-12-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I don't want a lot for Christmas. There is just one thing I need.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Do React Elements Have a $$typeof Property?]]></title>
+        <id>https://overreacted.io/why-do-react-elements-have-typeof-property/</id>
+        <link href="https://overreacted.io/why-do-react-elements-have-typeof-property/"/>
+        <updated>2018-12-03T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It has something to do with security.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Does React Tell a Class from a Function?]]></title>
+        <id>https://overreacted.io/how-does-react-tell-a-class-from-a-function/</id>
+        <link href="https://overreacted.io/how-does-react-tell-a-class-from-a-function/"/>
+        <updated>2018-12-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We talk about classes, new, instanceof, prototype chains, and API design.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Do We Write super(props)?]]></title>
+        <id>https://overreacted.io/why-do-we-write-super-props/</id>
+        <link href="https://overreacted.io/why-do-we-write-super-props/"/>
+        <updated>2018-11-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There’s a twist at the end.]]></summary>
+    </entry>
+</feed>
