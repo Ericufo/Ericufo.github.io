@@ -23,7 +23,7 @@ export const serif = Merriweather({
 
 // 中文字体：Noto Sans SC (无衬线)
 export const chineseSans = Noto_Sans_SC({
-  subsets: ["latin", "chinese-simplified"],
+  subsets: ["latin", "chinese"], // 使用 'chinese' 子集
   display: "swap",
   weight: ["400", "700"],
   style: ["normal"],
@@ -31,7 +31,7 @@ export const chineseSans = Noto_Sans_SC({
 
 // 中文字体：Noto Serif SC (衬线)
 export const chineseSerif = Noto_Serif_SC({
-  subsets: ["latin", "chinese-simplified"],
+  subsets: ["latin", "chinese"], // 使用 'chinese' 子集
   display: "swap",
   weight: ["400", "700"],
   style: ["normal", "italic"],
