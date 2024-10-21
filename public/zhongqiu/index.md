@@ -1,7 +1,7 @@
 ---
-title: "黄山游记"
-date: "2024-9-1"
-description: "Huangshan, HuiZhou"
+title: "中秋怀远"
+date: "2024-9-17"
+description: "mid-autumn"
 ---
 
 ## 中秋怀远
