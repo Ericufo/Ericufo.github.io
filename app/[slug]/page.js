@@ -26,10 +26,10 @@ export default async function PostPage({ params }) {
   }
   const { content, data } = matter(file);
   const discussUrl = `https://x.com/search?q=${encodeURIComponent(
-    `https://overreacted.io/${params.slug}/`,
+    `https://overreacted.io/${params.slug}/`
   )}`;
   const editUrl = `https://github.com/gaearon/overreacted.io/edit/main/public/${encodeURIComponent(
-    params.slug,
+    params.slug
   )}/index.md`;
   return (
     <article>
@@ -74,11 +74,14 @@ export default async function PostPage({ params }) {
           }}
         />
         <hr />
+        {/* 注释掉下面的 Discuss 和 Edit 链接 */}
+        {/* 
         <p>
           <Link href={discussUrl}>Discuss on 𝕏</Link>
           &nbsp;&nbsp;&middot;&nbsp;&nbsp;
           <Link href={editUrl}>Edit on GitHub</Link>
         </p>
+        */}
       </div>
     </article>
   );
